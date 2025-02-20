@@ -103,6 +103,5 @@ In educational settings, students often struggle to find suitable peers for coll
 ## Acknowledgments
 
 - Thanks to the Google Gemini API for providing powerful AI capabilities.
-- Special thanks to the hackathon organizers and mentors for their support.
 
 
